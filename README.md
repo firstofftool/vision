@@ -1,5 +1,5 @@
 # vision
-Build a game like platform on django for product development, supply chain, sales and running the company!
+Build a game like platform on django for real world product development, supply chain, sales and running the company!
 * https://en.wikipedia.org/wiki/Gamification gamification
 
 # inspiration
