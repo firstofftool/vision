@@ -9,6 +9,7 @@ Build a game like platform on django for real world product development, supply 
 * https://en.wikipedia.org/wiki/Factorio
 
 # tools
+connecting the dots
 * https://www.python.org/ Python is a programming language that lets you work quickly and integrate systems more effectively.
 * https://github.com/django/django The Web framework for perfectionists with deadlines.
 * https://github.com/viewflow/viewflow Reusable workflow library for Django
