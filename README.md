@@ -54,3 +54,6 @@ Build a game like platform on django for real world product development, supply 
 * https://en.wikipedia.org/wiki/Open_innovation
 * https://localmotors.com/ We are unlike any manufacturer you have ever seen.
 * https://launchforth.io/ A product design practice powered by a community of brilliant minds.
+
+# get started
+* https://www.nostarch.com/pythoncrashcourse A Hands-On, Project-Based Introduction to Programming
